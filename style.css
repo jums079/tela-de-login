@@ -88,3 +88,13 @@ form > div > div {
   justify-content: center;
   align-items: center;
 }
+
+
+@media (max-width : 720px){
+
+.login-container{
+  height: 450px;
+  width: 430px;
+}
+
+}
